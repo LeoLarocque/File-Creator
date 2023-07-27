@@ -1,3 +1,4 @@
+#Go to HugoLarocque, (he's my little brother) if you want to see some more cool code!
 import time
 def function():
   if name == "Leo":
